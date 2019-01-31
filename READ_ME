@@ -1,4 +1,6 @@
-/* authors: Scott Miller & Paul Jureidini  
+/* authors: Paul Jureidini & Scott Miller 
+
+*** also need to download json-c (use this for download help https://github.com/json-c/json-c) ***
 
 To compile file type: "make run" - The details of this are in MakeFile
 
